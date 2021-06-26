@@ -7,3 +7,5 @@ Hi there 👋
 - 📫 How to reach me: siddharthraomaratha@gmail.com
 
 ![Siddharth's GitHub stats](https://github-readme-stats.vercel.app/api?username=siddharthmaratha&theme=radical&show_icons=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=neon_dark)](https://git.io/streak-stats)
+
