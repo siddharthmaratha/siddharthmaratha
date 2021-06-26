@@ -13,6 +13,7 @@
   <img align="left" alt="Siddharth's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
+
 <!--  ![Siddharth's GitHub stats](https://github-readme-stats.vercel.app/api?username=siddharthmaratha&theme=highcontrast&show_icons=true)  -->
 ![Siddharth's GitHub stats](https://github-readme-stats.vercel.app/api?username=siddharthmaratha&show_icons=true&theme=dark)
 
