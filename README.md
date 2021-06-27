@@ -5,10 +5,10 @@
 - 🔭 I’m currently working on Web Development.
 - 🌱 I’m currently learning Artificial Intelligence and Machine Learning.
 - 👯 I’m looking to collaborate on Web and AI Projects. 
-- 📫 How to reach me: siddharthraomaratha@gmail.com <a href="https://twitter.com/SiddharthhRao">
+- 📫 How to reach me: siddharthraomaratha@gmail.com 
+<a href="https://twitter.com/SiddharthhRao">
   <img align="left" alt="Siddharth Maratha | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/siddharth-maratha-390993194/">
+</a> <a href="https://www.linkedin.com/in/siddharth-maratha-390993194/">
   <img align="left" alt="Siddharth's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
