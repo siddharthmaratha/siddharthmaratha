@@ -19,4 +19,13 @@
 ![Siddharth's GitHub stats](https://github-readme-stats.vercel.app/api?username=siddharthmaratha&show_icons=true&theme=dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siddharthmaratha&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+Social Handles
+<a href="https://www.linkedin.com/in/siddharth-maratha-390993194/">
+  <img align="left" alt="Siddharth's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
+<a href="https://twitter.com/SiddharthhRao">
+  <img align="left" alt="Siddharth Maratha | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a> 
 
