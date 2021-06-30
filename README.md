@@ -14,8 +14,9 @@
 ![Siddharth's GitHub stats](https://github-readme-stats.vercel.app/api?username=siddharthmaratha&show_icons=true&theme=dark)
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siddharthmaratha&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
-<hr><b>Social Handles</b>
+<hr>
 
+<b>Social Handles</b>
 
 
 <a href="https://www.linkedin.com/in/siddharth-maratha-390993194/">
