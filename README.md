@@ -22,3 +22,5 @@
   <img align="left" alt="Siddharth Maratha | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a> 
 
+![](https://komarev.com/ghpvc/?username=your-github-siddharthmaratha&color=red)
+
