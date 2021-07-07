@@ -23,10 +23,10 @@
   <img alt="Siddharth Maratha | LinkedIN" width="42px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://twitter.com/SiddharthhRao/" target="_blank">
-  <img alt="Siddharth Maratha | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img alt="Siddharth Maratha | Twitter" width="42px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://instagram.com/siddharth_.24/" target="_blank">
-  <img alt="Siddharth Maratha | Instagram" width="22px" src="https://image.flaticon.com/icons/png/512/1384/1384063.png">
+  <img alt="Siddharth Maratha | Instagram" width="42px" src="https://image.flaticon.com/icons/png/512/1384/1384063.png">
 </a>
 
 
