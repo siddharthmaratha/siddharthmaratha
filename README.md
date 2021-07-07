@@ -33,4 +33,9 @@
 
 ![](https://komarev.com/ghpvc/?username=your-github-siddharthmaratha&color=red&style=plastic)
 
-### ✨ Here's how to reach me! <p> <a href ="https://www.instagram.com/saireljoi/"> <img src="img/instagram_favicon-32x32.png" alt="Instagram"/> </a> <a href="#"> <a href ="https://www.twitter.com/seevera_xyrell/"> <img src="img/twitter_favicon-32x32.png" alt="Twitter"> <a href="#"> <a href ="https://www.linkedin.com/in/xyrell-joi-quirona-bb6b14136/"> <img src="img/linkedin_favicon-32x32.png" alt="LinkedIn"> <a href="#"> </p>
+### ✨ Here's how to reach me! 
+<p> 
+  <a href ="https://www.instagram.com/saireljoi/"> <img src="img/instagram_favicon-32x32.png" alt="Instagram"/> </a> <a href="#"> 
+  <a href ="https://www.twitter.com/seevera_xyrell/"> <img src="img/twitter_favicon-32x32.png" alt="Twitter"> <a href="#"> 
+  <a href ="https://www.linkedin.com/in/xyrell-joi-quirona-bb6b14136/"> <img src="img/linkedin_favicon-32x32.png" alt="LinkedIn"> <a href="#"> 
+</p>
