@@ -19,13 +19,13 @@
 
 <b>Social Handles</b>
 
-<a href="https://www.linkedin.com/in/siddharth-maratha-390993194/">
+<a href="https://www.linkedin.com/in/siddharth-maratha-390993194/" target="_blank">
   <img alt="Siddharth Maratha | LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://twitter.com/SiddharthhRao">
+<a href="https://twitter.com/SiddharthhRao/" target="_blank">
   <img alt="Siddharth Maratha | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://instagram.com/siddharth_.24/">
+<a href="https://instagram.com/siddharth_.24/" target="_blank">
   <img alt="Siddharth Maratha | Instagram" width="22px" src="https://image.flaticon.com/icons/png/512/1384/1384063.png">
 </a>
 
