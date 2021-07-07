@@ -20,7 +20,7 @@
 <b>Social Handles</b>
 
 <a href="https://www.linkedin.com/in/siddharth-maratha-390993194/" target="_blank">
-  <img alt="Siddharth Maratha | LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img alt="Siddharth Maratha | LinkedIN" width="42px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://twitter.com/SiddharthhRao/" target="_blank">
   <img alt="Siddharth Maratha | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
