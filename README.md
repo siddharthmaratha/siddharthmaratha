@@ -29,9 +29,9 @@
 </a> 
 </p>
 
-
+<p>
 ![](https://komarev.com/ghpvc/?username=your-github-siddharthmaratha&color=red&style=plastic)
-
+</p>
 ### ✨ Here's how to reach me! 
 <p> 
   <a href ="https://www.instagram.com/saireljoi/"> <img src="img/instagram_favicon-32x32.png" alt="Instagram"/> </a> <a href="#"> 
