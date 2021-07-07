@@ -19,15 +19,9 @@
 
 <b>Social Handles</b>
 
-
-<a href="https://www.linkedin.com/in/siddharth-maratha-390993194/">
-  <img align="left" alt="Siddharth's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-
-<a href="https://twitter.com/SiddharthhRao">
-  <img align="left" alt="Siddharth Maratha | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a> 
- [<img alt="Siddharth Maratha | Instagram" width="22px" src="https://image.flaticon.com/icons/png/512/1384/1384063.png">]("https://instagram.com/siddharth_.24/")
+[<img alt="Siddharth Maratha | LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />]("https://www.linkedin.com/in/siddharth-maratha-390993194/")
+[<img alt="Siddharth Maratha | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />]("https://twitter.com/SiddharthhRao") 
+[<img alt="Siddharth Maratha | Instagram" width="22px" src="https://image.flaticon.com/icons/png/512/1384/1384063.png">]("https://instagram.com/siddharth_.24/")
 
 <hr>
 
