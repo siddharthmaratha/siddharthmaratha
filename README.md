@@ -8,7 +8,6 @@
 - 📫 How to reach me: siddharthraomaratha@gmail.com 
 <hr>
 
-
 <!--  ![Siddharth's GitHub stats](https://github-readme-stats.vercel.app/api?username=siddharthmaratha&theme=highcontrast&show_icons=true)  -->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=siddharthmaratha&theme=neon-dark)](https://git.io/streak-stats)
 ![Siddharth's GitHub stats](https://github-readme-stats.vercel.app/api?username=siddharthmaratha&show_icons=true&theme=dark)
@@ -28,8 +27,5 @@
   <img alt="Siddharth Maratha | Instagram" width="42px" src="https://image.flaticon.com/icons/png/512/1384/1384063.png">
 </a>
 
-
 <hr>
-
 ![](https://komarev.com/ghpvc/?username=your-github-siddharthmaratha&color=red&style=plastic)
-
