@@ -22,6 +22,7 @@
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafacdomin&layout=compact&exclude_repo=PingMeRN&hide_border=true&bg_color=ffffff00&title_color=f65800&icon_color=32ff7b&text_color=FF7B32"
 />
 
+
 <!-- ![Siddharth's GitHub stats](https://github-readme-stats.vercel.app/api?username=siddharthmaratha&show_icons=true&theme=dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siddharthmaratha&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
@@ -39,6 +40,10 @@
 <a href="https://instagram.com/siddharth_.24/" target="_blank">
   <img alt="Siddharth Maratha | Instagram" width="42px" src="https://image.flaticon.com/icons/png/512/1384/1384063.png">
 </a>
+
+ <a href="mailto:siddharthraomaratha@gmail.com">
+    <img src="https://img.shields.io/badge/-siddharthraomaratha@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:siddharthraomaratha@gmail.com" />
+  </a>
 
 <hr>
 
