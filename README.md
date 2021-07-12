@@ -10,9 +10,22 @@
 
 <!--  ![Siddharth's GitHub stats](https://github-readme-stats.vercel.app/api?username=siddharthmaratha&theme=highcontrast&show_icons=true)  -->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=siddharthmaratha&theme=neon-dark)](https://git.io/streak-stats)
-![Siddharth's GitHub stats](https://github-readme-stats.vercel.app/api?username=siddharthmaratha&show_icons=true&theme=dark)
+
+<img
+  align="left"
+  height="165"
+  src="https://github-readme-stats.vercel.app/api?username=siddharthmaratha&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&hide_border=true&bg_color=ffffff00&title_color=f65800&icon_color=32ff7b&text_color=FF7B32"
+/>
+
+<img
+  align="center"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafacdomin&layout=compact&exclude_repo=PingMeRN&hide_border=true&bg_color=ffffff00&title_color=f65800&icon_color=32ff7b&text_color=FF7B32"
+/>
+
+<!-- ![Siddharth's GitHub stats](https://github-readme-stats.vercel.app/api?username=siddharthmaratha&show_icons=true&theme=dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siddharthmaratha&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
+-->
 <hr>
 
 <b>Social Handles</b>
@@ -31,13 +44,3 @@
 
 ![](https://komarev.com/ghpvc/?username=your-github-siddharthmaratha&color=red&style=plastic)
 
-<img
-  align="left"
-  height="165"
-  src="https://github-readme-stats.vercel.app/api?username=siddharthmaratha&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&hide_border=true&bg_color=ffffff00&title_color=f65800&icon_color=32ff7b&text_color=FF7B32"
-/>
-
-<img
-  align="center"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafacdomin&layout=compact&exclude_repo=PingMeRN&hide_border=true&bg_color=ffffff00&title_color=f65800&icon_color=32ff7b&text_color=FF7B32"
-/>
