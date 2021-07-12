@@ -41,9 +41,10 @@
   <img alt="Siddharth Maratha | Instagram" width="42px" src="https://image.flaticon.com/icons/png/512/1384/1384063.png">
 </a>
 
- <a href="mailto:siddharthraomaratha@gmail.com">
+<!-- <a href="mailto:siddharthraomaratha@gmail.com">
     <img src="https://img.shields.io/badge/-siddharthraomaratha@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:siddharthraomaratha@gmail.com" width="202px" height="22px" />
   </a>
+-->
 
 <hr>
 
