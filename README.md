@@ -42,7 +42,7 @@
 </a>
 
  <a href="mailto:siddharthraomaratha@gmail.com">
-    <img src="https://img.shields.io/badge/-siddharthraomaratha@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:siddharthraomaratha@gmail.com" width="202px" height="22px"/>
+    <img src="https://img.shields.io/badge/-siddharthraomaratha@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:siddharthraomaratha@gmail.com" width="202px" height="22px" padding="10px"/>
   </a>
 
 <hr>
