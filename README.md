@@ -3,7 +3,8 @@
 
 <img
   align="right"
-  width="300px"
+  aligh="top"
+  width="500px"
   src="./programming.gif"
 />
 
