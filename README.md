@@ -1,6 +1,12 @@
 <!-- Hi there 👋-->
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
+<img
+  align="right"
+  width="300px"
+  src="./programming.gif"
+/>
+
 - 👋 I’m Siddharth Maratha.
 - 🔭 I’m currently working on Web Development.
 - 🌱 I’m currently learning Artificial Intelligence and Machine Learning.
