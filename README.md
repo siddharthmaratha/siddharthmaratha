@@ -1,5 +1,5 @@
 <!-- Hi there 👋-->
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <img
   align="right"
@@ -37,7 +37,7 @@
 -->
 <hr>
 
-<b>Social Handles</b>
+#Social Handles
 
 <a href="https://www.linkedin.com/in/siddharth-maratha-390993194/" target="_blank">
   <img alt="Siddharth Maratha | LinkedIN" width="42px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
