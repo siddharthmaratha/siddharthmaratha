@@ -2,9 +2,9 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <img
-  align="right"
+  
   aligh="top"
-  width="400px"
+  width="300px"
   src="./programming.gif"
 />
 
