@@ -7,7 +7,7 @@
   src="./programming.gif"
 />
 
-- 👋 I’m Siddharth Maratha.
+- 👋 I’m <b>Siddharth Maratha</b>.
 - 🔭 I’m currently working on Web Development.
 - 🌱 I’m currently learning Artificial Intelligence and Machine Learning.
 - 👯 I’m looking to collaborate on Web and AI Projects. 
