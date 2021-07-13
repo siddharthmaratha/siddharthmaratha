@@ -3,7 +3,7 @@
 <img
   align="right"
   width="375px"
-  src="./programming.gif"
+  src="./Images/programming.gif"
 />
 
 - 👋 I’m Siddharth Maratha
