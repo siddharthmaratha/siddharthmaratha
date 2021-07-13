@@ -37,7 +37,7 @@
 -->
 <hr>
 
-#Social Handles
+# Social Handles
 
 <a href="https://www.linkedin.com/in/siddharth-maratha-390993194/" target="_blank">
   <img alt="Siddharth Maratha | LinkedIN" width="42px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
