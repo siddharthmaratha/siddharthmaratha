@@ -15,7 +15,7 @@
 <br />
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h1 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
   </a> 
@@ -36,7 +36,7 @@
 </p>
 
 
-<h3 align="left">My Stats</h3>
+<h1 align="left">My Stats</h3>
 <span>
   
   <!--  ![Siddharth's GitHub stats](https://github-readme-stats.vercel.app/api?username=siddharthmaratha&theme=highcontrast&show_icons=true)  -->
