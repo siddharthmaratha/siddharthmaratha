@@ -54,6 +54,9 @@
   <a href="https://instagram.com/siddharth_.24/" target="_blank">
     <img alt="Siddharth Maratha | Instagram" width="42px" src="https://image.flaticon.com/icons/png/512/1384/1384063.png">
   </a>
+  <a href="https://www.hackerrank.com/siddharthmaratha" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Siddharth Maratha | Hackerrank" width="42px" />
+  </a>
 
   <!-- <a href="mailto:siddharthraomaratha@gmail.com">
       <img src="https://img.shields.io/badge/-siddharthraomaratha@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:siddharthraomaratha@gmail.com" width="202px" height="22px" />
