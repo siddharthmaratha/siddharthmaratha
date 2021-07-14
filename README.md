@@ -44,7 +44,7 @@
 <hr>
 
 # Social Handles
-
+<span padding="10px">
   <a href="https://www.linkedin.com/in/siddharth-maratha-390993194/" target="_blank">
     <img alt="Siddharth Maratha | LinkedIN" width="42px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
   </a>
@@ -62,7 +62,7 @@
       <img src="https://img.shields.io/badge/-siddharthraomaratha@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:siddharthraomaratha@gmail.com" width="202px" height="22px" />
    </a>
   -->
-
+</span>
 <hr>
 
 ![](https://komarev.com/ghpvc/?username=your-github-siddharthmaratha&color=red&style=plastic)
