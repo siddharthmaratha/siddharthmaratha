@@ -61,10 +61,7 @@
   
 </span>
 
-<hr>
-
 <h2 align="left">Social Handles :</h2>
-
 <span padding="10px">
   <a href="https://www.linkedin.com/in/siddharth-maratha-390993194/" target="_blank">
     <img alt="Siddharth Maratha | LinkedIN" width="42px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
@@ -84,7 +81,5 @@
    </a>
   -->
 </span>
-<hr>
 
 ![](https://komarev.com/ghpvc/?username=your-github-siddharthmaratha&color=red&style=plastic)
-
