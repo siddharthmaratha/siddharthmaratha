@@ -14,7 +14,7 @@
 
 <br />
 
-<h2 align="left">Languages and Tools:</h2>
+<h2 align="left">Languages and Tools :</h2>
 <p align="left"> 
   <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
   </a> 
@@ -35,7 +35,7 @@
 </p>
 
 
-<h2 align="left">My Stats</h2>
+<h2 align="left">My Stats :</h2>
 <span>
   
   <!--  ![Siddharth's GitHub stats](https://github-readme-stats.vercel.app/api?username=siddharthmaratha&theme=highcontrast&show_icons=true)  -->
@@ -63,7 +63,7 @@
 
 <hr>
 
-<h2 align="left">Social Handles</h2>
+<h2 align="left">Social Handles :</h2>
 
 <span padding="10px">
   <a href="https://www.linkedin.com/in/siddharth-maratha-390993194/" target="_blank">
