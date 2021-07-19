@@ -2,7 +2,7 @@
 
 <img
   align="right"
-  width="275x"
+  width="274x"
   src="./Images/programming1.gif"
 />
 
