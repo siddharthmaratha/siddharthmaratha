@@ -1,6 +1,10 @@
 # Hey there <img src="./Images/giphy.webp" width="25px">
 
-
+<img
+  align="right"
+  width="275x"
+  src="./Images/programming1.gif"
+/>
 
 - 👋 I’m Siddharth Maratha
 - 🔭 I’m currently working on Web Development.
@@ -9,12 +13,6 @@
 - 📫 How to reach me: siddharthraomaratha@gmail.com 
 
 <br />
-
-<img
-  align="right"
-  width="275x"
-  src="./Images/programming1.gif"
-/>
 
 <h2 align="left">Languages and Tools :</h2>
 <p align="left"> 
