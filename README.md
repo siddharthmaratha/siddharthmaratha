@@ -12,6 +12,18 @@
   src="./Images/programming1.gif"
 />
 
+<img
+  align="right"
+  width="275x"
+  src="./Images/programming1.gif"
+/>
+
+<img
+  align="right"
+  width="275x"
+  src="./Images/programming1.gif"
+/>
+
 - 👋 I’m Siddharth Maratha
 - 🔭 I’m currently working on Web Development.
 - 🌱 I’m currently learning Artificial Intelligence and Machine Learning.
