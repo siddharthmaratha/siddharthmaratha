@@ -1,16 +1,16 @@
 # Hey there <img src="./Images/giphy.webp" width="25px">
 
-<img
-  align="right"
-  width="75x"
-  src="./Images/programming1.gif"
-/>
-
 - 👋 I’m Siddharth Maratha
 - 🔭 I’m currently working on Web Development.
 - 🌱 I’m currently learning Artificial Intelligence and Machine Learning.
 - 👯 I’m looking to collaborate on Web and AI Projects. 
 - 📫 How to reach me: siddharthraomaratha@gmail.com 
+
+<img
+  align="right"
+  width="75x"
+  src="./Images/programming1.gif"
+/>
 
 <br />
 
