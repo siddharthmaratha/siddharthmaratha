@@ -72,7 +72,7 @@
     <img alt="Siddharth Maratha | Twitter" width="42px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
   </a>
   <a href="https://instagram.com/siddharth_.24/" target="_blank">
-    <img alt="Siddharth Maratha | Instagram" width="42px" src="https://image.flaticon.com/icons/png/512/1384/1384063.png">
+    <img alt="Siddharth Maratha | Instagram" width="42px" src="https://www.flaticon.com/free-icon/instagram_1384063?term=instagram&page=1&position=15&page=1&position=15&related_id=1384063&origin=tag">
   </a>
   <a href="https://www.hackerrank.com/siddharthmaratha" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Siddharth Maratha | Hackerrank" width="42px" />
