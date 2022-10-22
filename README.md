@@ -66,7 +66,7 @@
 <h2 align="left">Social Handles :</h2>
 <span padding="10px">
   <a href="https://www.linkedin.com/in/siddharth-maratha-390993194/" target="_blank">
-    <img alt="Siddharth Maratha | LinkedIN" width="42px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+    <img alt="Siddharth Maratha | LinkedIN" width="42px" src="Images/linkedin.png" />
   </a>
   <a href="https://twitter.com/SiddharthhRao/" target="_blank">
     <img alt="Siddharth Maratha | Twitter" width="42px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
@@ -79,7 +79,9 @@
   </a>
 
   <!-- <a href="mailto:siddharthraomaratha@gmail.com">
-      <img src="https://img.shields.io/badge/-siddharthraomaratha@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:siddharthraomaratha@gmail.com" width="202px" height="22px" />
+      <img src="https://img.shields.io/badge/-siddharthraomaratha@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:siddharthraomaratha@gmail.com" 
+https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg 
+width="202px" height="22px" />
    </a>
   -->
 </span>
