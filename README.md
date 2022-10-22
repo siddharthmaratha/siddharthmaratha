@@ -68,14 +68,14 @@
   <a href="https://www.linkedin.com/in/siddharth-maratha-390993194/" target="_blank">
     <img alt="Siddharth Maratha | LinkedIN" width="40px" src="Images/linkedin.png" />
   </a>
-  <a href="https://twitter.com/SiddharthhRao/" target="_blank">
-    <img alt="Siddharth Maratha | Twitter" width="42px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-  </a>
   <a href="https://instagram.com/siddharth_.24/" target="_blank">
     <img alt="Siddharth Maratha | Instagram" width="40px" src="Images/instagram.png">
   </a>
   <a href="https://www.hackerrank.com/siddharthmaratha" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Siddharth Maratha | Hackerrank" width="42px" />
+  </a>
+  <a href="https://twitter.com/SiddharthhRao/" target="_blank">
+    <img alt="Siddharth Maratha | Twitter" width="42px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
   </a>
 
   <!-- <a href="mailto:siddharthraomaratha@gmail.com">
