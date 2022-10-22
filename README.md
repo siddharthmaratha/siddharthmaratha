@@ -1,10 +1,10 @@
 # Hey there <img src="./Images/giphy.webp" width="25px">
 
-<img
+<!-- <img
   align="right"
   width="75x"
   src="./Images/programming1.gif"
-/>
+/> -->
 
 - 👋 I’m Siddharth Maratha
 - 🔭 I’m currently working on Web Development.
