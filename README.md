@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **ML**
 
-- 📝 I regularly write articles on [https://siddharthraomaratha.medium.com/](https://siddharthraomaratha.medium.com/)
+- 📝 I regularly write articles on [Medium](https://siddharthraomaratha.medium.com/)
 
 - 💬 Ask me about **react, c++, python**
 
