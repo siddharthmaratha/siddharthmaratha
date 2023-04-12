@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **siddharthraomaratha@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1H5Cx_6DCiFmqrbOZQTpGOikDMbVMuig96N63GUNcXpQ/edit?usp=sharing](https://docs.google.com/document/d/1H5Cx_6DCiFmqrbOZQTpGOikDMbVMuig96N63GUNcXpQ/edit?usp=sharing)
+- 📄 Know about my experiences [here](https://docs.google.com/document/d/1H5Cx_6DCiFmqrbOZQTpGOikDMbVMuig96N63GUNcXpQ/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
