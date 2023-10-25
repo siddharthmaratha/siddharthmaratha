@@ -34,9 +34,9 @@
     height="165"
     src="https://github-readme-stats.vercel.app/api?username=siddharthmaratha&count_private=true&show_icons=true&custom_title=Sid's%20Github%20Status&hide=issues&hide_border=true&bg_color=ffffff00&title_color=f65800&icon_color=32ff7b&text_color=E4DADA"
        />
-   -->
-    <!-- #bg_COLOR - UPPER=ffffff00 000000 &text_color=FF7B32 -->
- <!--
+       
+    #bg_COLOR - UPPER=ffffff00 000000 &text_color=FF7B32
+ 
   <img    
     align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafacdomin&layout=compact&exclude_repo=PingMeRN&hide_border=true&bg_color=ffffff00&title_color=f65800&icon_color=32ff7b&text_color=E4DADA"
