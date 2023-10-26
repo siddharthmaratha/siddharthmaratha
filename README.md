@@ -41,22 +41,20 @@
 ## Social Handles:
 <span align="center" padding="10px">
   
-  [![Linkedin](https://img.shields.io/badge/-LinkedIn-0077b5?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/siddharthmaratha/)
   [![Leetcode](https://img.shields.io/badge/-Leetcode-black?style=flat&logo=Leetcode&logoColor=yellow&link=https://leetcode.com/siddharthmarathaa)](https://leetcode.com/siddharthmarathaa)
   [![Hackerrank](https://img.shields.io/badge/-Hackerrank-0c0c14?style=flat&logo=hackerrank&logoColor=green&link=https://www.hackerrank.com/siddharthmaratha)](https://www.hackerrank.com/siddharthmaratha)
-  [![Instagram Badge](https://img.shields.io/badge/-Instagram-e56969?logo=instagram&logoColor=white&link=https://instagram.com/siddharthmarathaa/)](https://instagram.com/siddharthmarathaa)
-  [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/SiddharthhRao)](https://twitter.com/SiddharthhRao)
   
+  [![Linktree](https://img.shields.io/badge/-Linktree-ccd3b4?style=flat&logo=Linktree&logoColor=3c3c44&link=https://linktr.ee/siddharthmaratha)](https://linktr.ee/siddharthmaratha)
+  [![Linkedin](https://img.shields.io/badge/-LinkedIn-0077b5?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/siddharthmaratha/)
+  [![Instagram Badge](https://img.shields.io/badge/-Instagram-e56969?logo=instagram&logoColor=white&link=https://instagram.com/siddharthmarathaa/)](https://instagram.com/siddharthmarathaa)
+  
+  [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/SiddharthhRao)](https://twitter.com/SiddharthhRao)
+  [![Discord Badge](https://img.shields.io/badge/-Discord-7289da?logo=discord&logoColor=white&link=Baigan)](#Baigan)
   [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:siddharthraomaratha@gmail.com)
   [![Github](https://img.shields.io/github/followers/siddharthmaratha?label=Follow&style=social)](https://github.com/siddharthmaratha)
   
 </span>
 
 <hr>
- 
-</span>
-
-<br>
-<br>
 
 ![](https://komarev.com/ghpvc/?username=your-github-siddharthmaratha&color=green&style=plastic)
