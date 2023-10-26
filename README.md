@@ -14,7 +14,7 @@
 
 <br />
 
-<h2 align="left">Languages and Tools :</h2>
+## Languages and Tools:
 
 <br>
 
@@ -22,12 +22,12 @@
 
 <br>
 
-<h2 align="left">My Stats :</h2>
+## My Stats:
 <span>
   
 [![GitHub Streak](https://streak-stats.demolab.com?user=siddharthmaratha&theme=neon-dark)](https://git.io/streak-stats)
 
-## Projects
+## Projects:
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=siddharthmaratha&repo=autism-detection&theme=github_dark)](https://github.com/siddharthmaratha/autism-detection) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=siddharthmaratha&repo=HandDet&theme=github_dark)](https://github.com/siddharthmaratha/HandDet)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=siddharthmaratha&repo=Wordoid&theme=github_dark)](https://github.com/siddharthmaratha/Wordoid) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=siddharthmaratha&repo=Buddy_Voice&theme=github_dark)](https://github.com/siddharthmaratha/Buddy_Voice) 
@@ -38,7 +38,7 @@
 
 <br>
 
-<h2 align="left">Social Handles :</h2>
+## Social Handles:
 <span padding="10px">
 <a href="https://linkedin.com/in/siddharthmaratha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn | Siddharth" height="35" width="45" /></a>
 <a href="https://twitter.com/siddharthhrao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter | Siddharth" height="40" width="45" /></a>
