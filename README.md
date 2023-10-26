@@ -25,8 +25,8 @@
 <h2 align="left">My Stats :</h2>
 <span>
   
-  
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=siddharthmaratha&theme=neon-dark)](https://git.io/streak-stats) 
+  [![GitHub Streak](https://streak-stats.demolab.com?user=siddharthmaratha&theme=highcontrast)](https://git.io/streak-stats)
+ <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=siddharthmaratha&theme=neon-dark)](https://git.io/streak-stats) -->
  <!-- -->
 <!--
   <img
