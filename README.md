@@ -40,6 +40,7 @@
 
 ## Social Handles:
 <span align="center" padding="10px">
+  <br>
   
   [![Leetcode](https://img.shields.io/badge/-Leetcode-black?style=flat&logo=Leetcode&logoColor=yellow&link=https://leetcode.com/siddharthmarathaa)](https://leetcode.com/siddharthmarathaa)
   [![Hackerrank](https://img.shields.io/badge/-Hackerrank-0c0c14?style=flat&logo=hackerrank&logoColor=green&link=https://www.hackerrank.com/siddharthmaratha)](https://www.hackerrank.com/siddharthmaratha)
@@ -52,7 +53,8 @@
   [![Discord Badge](https://img.shields.io/badge/-Discord-7289da?logo=discord&logoColor=white&link=Baigan)](#Baigan)
   [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:siddharthraomaratha@gmail.com)
   [![Github](https://img.shields.io/github/followers/siddharthmaratha?label=Follow&style=social)](https://github.com/siddharthmaratha)
-  
+
+  <br>
 </span>
 
 <hr>
