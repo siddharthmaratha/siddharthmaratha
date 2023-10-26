@@ -26,10 +26,13 @@
 <span>
   
 [![GitHub Streak](https://streak-stats.demolab.com?user=siddharthmaratha&theme=neon-dark)](https://git.io/streak-stats)
- 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=siddharthmaratha&repo=Wordoid&theme=github_dark)](https://github.com/siddharthmaratha/Wordoid) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=siddharthmaratha&repo=Buddy_Voice&theme=github_dark)](https://github.com/siddharthmaratha/Buddy_Voice)
 
-<img src="https://myreadme.vercel.app/api/embed/siddharthmaratha?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="Sid's stats" />
+## Projects
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=siddharthmaratha&repo=autism-detection&theme=github_dark)](https://github.com/siddharthmaratha/autism-detection) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=siddharthmaratha&repo=HandDet&theme=github_dark)](https://github.com/siddharthmaratha/HandDet)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=siddharthmaratha&repo=Wordoid&theme=github_dark)](https://github.com/siddharthmaratha/Wordoid) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=siddharthmaratha&repo=Buddy_Voice&theme=github_dark)](https://github.com/siddharthmaratha/Buddy_Voice) 
+
+<!-- <img src="https://myreadme.vercel.app/api/embed/siddharthmaratha?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="Sid's stats" /> -->
 
 </span>
 
