@@ -28,13 +28,14 @@
   [![GitHub Streak](https://streak-stats.demolab.com?user=siddharthmaratha&theme=neon-dark)](https://git.io/streak-stats)
  <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=siddharthmaratha&theme=highcontrast)](https://git.io/streak-stats) -->
  <!-- -->
-<!--
+
   <img
     align="left"
     height="165"
     src="https://github-readme-stats.vercel.app/api?username=siddharthmaratha&count_private=true&show_icons=true&custom_title=Sid's%20Github%20Status&hide=issues&hide_border=true&bg_color=ffffff00&title_color=f65800&icon_color=32ff7b&text_color=E4DADA"
        />
-       
+
+<!--
     #bg_COLOR - UPPER=ffffff00 000000 &text_color=FF7B32
  
   <img    
