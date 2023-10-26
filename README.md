@@ -39,24 +39,23 @@
 <br>
 
 ## Social Handles:
-<span padding="10px">
-<a href="https://linkedin.com/in/siddharthmaratha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn | Siddharth" height="35" width="45" /></a>
-<a href="https://twitter.com/siddharthhrao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter | Siddharth" height="40" width="45" /></a>
-<a href="https://fb.com/siddharth.maratha.144" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook | Siddharth" height="40" width="45" /></a>
-<a href="https://instagram.com/siddharthmarathaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram | Siddharth" height="40" width="45" /></a>
-<a href="https://www.hackerrank.com/siddharthmaratha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Hackerrank | Siddharth" height="40" width="45" /></a>
+<span align="center" padding="10px">
+  
+  [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/siddharthmaratha/)
+  [![Leetcode](https://img.shields.io/badge/-Leetcode-black?style=flat&logo=Leetcode&logoColor=yellow&link=https://leetcode.com/siddharthmarathaa)](https://leetcode.com/siddharthmarathaa)
+  [![Hackerrank](https://img.shields.io/badge/-Hackerrank-gray?style=flat&logo=hackerrank&logoColor=green&link=https://www.hackerrank.com/siddharthmaratha)](https://www.hackerrank.com/siddharthmaratha)
+  [![Instagram Badge](https://img.shields.io/badge/-Instagram-red?logo=instagram&logoColor=white&link=https://instagram.com/siddharthmarathaa/)](https://instagram.com/siddharthmarathaa)
+  [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/SiddharthhRao)](https://twitter.com/SiddharthhRao)
+  [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:siddharthraomaratha@gmail.com)
+  [![Github](https://img.shields.io/github/followers/siddharthmaratha?label=Follow&style=social)](https://github.com/siddharthmaratha)
+  
+</span>
 
 <hr>
-
-<a href="mailto:siddharthraomaratha@gmail.com">
-      <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:siddharthraomaratha@gmail.com" 
-https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg 
-width="85px" height="26px" />
-   </a>
  
 </span>
 
 <br>
 <br>
 
-![](https://komarev.com/ghpvc/?username=your-github-siddharthmaratha&color=red&style=plastic)
+![](https://komarev.com/ghpvc/?username=your-github-siddharthmaratha&color=green&style=plastic)
