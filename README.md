@@ -25,24 +25,12 @@
 <h2 align="left">My Stats :</h2>
 <span>
   
-  [![GitHub Streak](https://streak-stats.demolab.com?user=siddharthmaratha&theme=neon-dark)](https://git.io/streak-stats)
- <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=siddharthmaratha&theme=highcontrast)](https://git.io/streak-stats) -->
- <!-- -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=siddharthmaratha&theme=neon-dark)](https://git.io/streak-stats)
+ 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=siddharthmaratha&repo=Wordoid&theme=github_dark)](https://github.com/siddharthmaratha/Wordoid) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=siddharthmaratha&repo=Buddy_Voice&theme=github_dark)](https://github.com/siddharthmaratha/Buddy_Voice)
 
-  <img
-    align="left"
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=siddharthmaratha&count_private=true&show_icons=true&custom_title=Sid's%20Github%20Status&hide=issues&hide_border=true&bg_color=ffffff00&title_color=f65800&icon_color=32ff7b&text_color=E4DADA"
-       />
+<img src="https://myreadme.vercel.app/api/embed/siddharthmaratha?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="Sid's stats" />
 
-<!--
-    #bg_COLOR - UPPER=ffffff00 000000 &text_color=FF7B32
- -->
-  <img    
-    align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafacdomin&layout=compact&exclude_repo=PingMeRN&hide_border=true&bg_color=ffffff00&title_color=f65800&icon_color=32ff7b&text_color=E4DADA"
-       />
-   
 </span>
 
 <br>
